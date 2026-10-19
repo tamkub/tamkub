@@ -3,8 +3,8 @@
 **Software Developer | Full-Stack Development & Cybersecurity**
 
 <p align="left">
-  <a href="https://github.com/TAMDekit">
-    <img src="https://img.shields.io/badge/GitHub-TAMDekit-181717?style=flat-square&logo=github" alt="GitHub" />
+  <a href="https://github.com/tamkub">
+    <img src="https://img.shields.io/badge/GitHub-tamkub-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/natthawat-rodchanathanatham-5592b2422/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
