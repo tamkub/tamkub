@@ -54,6 +54,6 @@ I enjoy learning by building projects, debugging problems, and exploring how sof
 
 ## Connect
 
-- GitHub: [@TAMDekit](https://github.com/TAMDekit)
-- LinkedIn: [Natthawat Rodchanathanatham](https://www.linkedin.com/in/natthawat-rodchanathanatham-5592b2422/)
+- GitHub: [@TAMDekit](https://github.com/tamkub)
+- LinkedIn: [Natthawat Rodchanathanatham](https://www.linkedin.com/in/tamkub/)
 ```
