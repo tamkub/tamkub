@@ -47,11 +47,13 @@ I enjoy learning by building projects, debugging problems, and exploring how sof
 
 ## Current Interests
 
-Building maintainable web applications and REST APIs
-Designing database schemas and backend systems
-Exploring web application security and vulnerability analysis
-Practicing problem-solving through CTF challenges
+- Building maintainable web applications and REST APIs
+- Designing database schemas and backend systems
+- Exploring web application security and vulnerability analysis
+- Practicing problem-solving through CTF challenges
+
 ## Connect
 
-GitHub: @TAMDekit
-LinkedIn: Natthawat Rodchanathanatham ```
+- GitHub: [@TAMDekit](https://github.com/TAMDekit)
+- LinkedIn: [Natthawat Rodchanathanatham](https://www.linkedin.com/in/natthawat-rodchanathanatham-5592b2422/)
+```
